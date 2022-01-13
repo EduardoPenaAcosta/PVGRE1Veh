@@ -66,4 +66,5 @@ public class Vehicle {
     public void setPaintColor(String paintColor) {
         this.paintColor = paintColor;
     }
+
 }
